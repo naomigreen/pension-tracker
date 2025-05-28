@@ -24,4 +24,4 @@ Things I would improve with more time
 
 Notes
 I'm matching the total value background colours to the chart colours to help understand the visualisation better. If the user's pension forecast is below their desired amount, I've highlighted this in red in the total and bar chart, if it's equal to or greater than their desired amount it's changed to green. (I'm new to Tailwind, so hoping the styling is alright).
-To validate my calculation were correct, I used [compound interest calculator](https://www.unbiased.co.uk/discover/personal-finance/savings-investing/compound-interest-calculator)
+To validate my calculations were correct, I used [compound interest calculator](https://www.unbiased.co.uk/discover/personal-finance/savings-investing/compound-interest-calculator)
